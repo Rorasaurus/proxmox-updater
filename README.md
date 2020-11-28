@@ -1,8 +1,10 @@
 # proxmox-updater
-Updater for Proxmox no subscription
+Updater for Proxmox 6.* no subscription
 
 ## Purpose
 This script will configure Proxmox to allow it to update from the pve-no-subscription source.
+
+This script only supports Proxmox 6.*
 
 ## Usage
 proxmox-update.sh {optional_argument}
